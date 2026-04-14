@@ -12,6 +12,7 @@ Basis: [../requirements/vereinsgruendung-oesterreich.md](../requirements/vereins
 | 2 | [02-gruendungsprotokoll.md](02-gruendungsprotokoll.md) | Protokoll der Gründungsversammlung | empfohlen |
 | 3 | [03-anzeige-vereinserrichtung.md](03-anzeige-vereinserrichtung.md) | Anzeige an die Landespolizeidirektion Wien | ✅ Pflicht (§ 11 VerG) |
 | 4 | [04-mitgliedsantrag.md](04-mitgliedsantrag.md) | Beitrittserklärung für neue Mitglieder inkl. DSGVO & SEPA | operativ |
+| 5 | [05-datenschutzerklaerung.md](05-datenschutzerklaerung.md) | DSGVO-konforme Datenschutzerklärung (Website + Mitgliederverwaltung) | ✅ Pflicht (Art 13, 14 DSGVO) |
 
 ## Noch auszufüllende Platzhalter
 

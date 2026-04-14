@@ -1,4 +1,4 @@
-# OpenAustria (OA) – Foundation
+# OpenAustria (OA) – Association
 
 Vorlagen und Arbeitsunterlagen zur Gründung des gemeinnützigen Vereins
 **„OpenAustria (OA) – Verein zur Förderung KI-gestützter Open-Source-Software"**
@@ -20,6 +20,7 @@ Förderung von Open-Source-Software in Österreich, insbesondere KI-gestützter 
 │       ├── 02-gruendungsprotokoll.md
 │       ├── 03-anzeige-vereinserrichtung.md
 │       ├── 04-mitgliedsantrag.md
+│       ├── 05-datenschutzerklaerung.md
 │       └── README.md
 ├── PRIVATE/                        # lokal, nicht eingecheckt (siehe .gitignore)
 ├── LICENSE
