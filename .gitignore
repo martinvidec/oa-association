@@ -1,0 +1,50 @@
+# Private / ausgefüllte Dokumente mit Realdaten
+PRIVATE/*
+!PRIVATE/.gitkeep
+!PRIVATE/README.md
+private/
+*.private.md
+*-ausgefuellt.md
+*-filled.md
+
+# Generierte / exportierte Dateien
+*.pdf
+*.docx
+*.odt
+/build/
+/dist/
+/out/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+.directory
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# Claude / AI-Tools
+.claude/
+.aider*
+
+# Temp
+*.tmp
+*.bak
+*.log
